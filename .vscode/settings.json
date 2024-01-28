@@ -1,0 +1,6 @@
+{
+    "editor.formatOnPaste": false,
+    "workbench.settings.openDefaultKeybindings": false,
+    "dart.lineLength": 80,
+    "prettier.requireConfig": true
+}
